@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893404072833",
+    "firebase_url": "https://flutterdeeplinking-a94a8.firebaseio.com",
+    "project_id": "flutterdeeplinking-a94a8",
+    "storage_bucket": "flutterdeeplinking-a94a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893404072833:android:57a375d1a27a7220207680",
+        "android_client_info": {
+          "package_name": "com.aia.flutter_deep_linking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893404072833-ge0jn9a7u5l0fv4e9anikdfn92vnedsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5P6WCrobcFPutbUPXLOtf98MxfkvyVCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893404072833-ge0jn9a7u5l0fv4e9anikdfn92vnedsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
